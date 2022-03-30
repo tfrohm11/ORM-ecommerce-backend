@@ -6,5 +6,6 @@
 
 ### https://tfrohm11.github.io/hw13/
 ### https://github.com/tfrohm11/hw13
-### Video walkthrough part 1: https://www.youtube.com/watch?v=CQs_GByogI0&ab_channel=ThomasFrohm
-### Video walkthrough part 2: https://www.youtube.com/watch?v=dTdfWldNYsk&ab_channel=ThomasFrohm
+### Video walkthrough part 1: https://www.youtube.com/watch?v=dTdfWldNYsk&ab_channel=ThomasFrohm
+### Video walkthrough part 2: https://www.youtube.com/watch?v=CQs_GByogI0&ab_channel=ThomasFrohm
+
