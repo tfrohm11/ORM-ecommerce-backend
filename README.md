@@ -4,3 +4,7 @@
 
 ## Given a functional Express.js API; when the user adds my database name, MySQL username, and MySQL password to an environment variable file then they are able to connect to a database using Sequelize when the user enters the schema and seeds the commands then a development database is created and is seeded with test data when the user enters the command to invoke the application then my server is started and the Sequelize models are synced to the MySQL database when the user opens API GET routes for categories, products, or tags then the data for each of these routes is displayed in a formatted JSON when the user tests API POST, PUT, and DELETE routes then they are able to successfully create, update, and delete data in my database
 
+### https://tfrohm11.github.io/hw13/
+### https://github.com/tfrohm11/hw13
+### Video walkthrough part 1: https://www.youtube.com/watch?v=CQs_GByogI0&ab_channel=ThomasFrohm
+### Video walkthrough part 2: https://www.youtube.com/watch?v=dTdfWldNYsk&ab_channel=ThomasFrohm
